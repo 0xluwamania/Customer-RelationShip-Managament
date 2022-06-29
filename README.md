@@ -31,21 +31,6 @@ IMPLEMENT AUTHORIZATION AND AUTHENTICATION: PROTECT ALL ROUTES. ONLY THE LOGGED-
 - Host your application on Heroku.
 - Data format example:
 
-```
-[
-
- {
-   fullname: 'john doe',
-   email: 'john@example.com', // no duplicates allowed.
-   gender:'m',
-   phone:'+2347085647535',
-   address:'1, rantech stop, ',
-   notes:'This Customer is owing 10k' //optional, it can be left empty
- }
-
-]
-```
-
 ## FRONTEND
 
 - Page to display all customers
